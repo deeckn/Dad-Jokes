@@ -1,6 +1,5 @@
 # DAD-JOKES
 A fun website to fetch dad jokes from an API\
-Check out! https://cknjokes.netlify.app/
 
 ![dad-jokes](https://user-images.githubusercontent.com/40157947/142717742-a2e090ac-b643-4433-b4e1-4c67b6af438a.PNG)
 
